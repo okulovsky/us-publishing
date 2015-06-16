@@ -1,3 +1,3 @@
 Tuto layer for ExpandingData Version 1
 
-{"Records":[{"Data":{"IsExpanded":false},"Guid":"15b00bc7-af90-4759-9027-ac30cf1fd793"}]}
+{"Records":[{"Data":{"IsExpanded":true},"Guid":"e1122266-8b43-4db7-a1b5-08ddb12b0296"},{"Data":{"IsExpanded":true},"Guid":"181d672e-b368-4001-91a5-aff7179709f8"},{"Data":{"IsExpanded":false},"Guid":"a6b97cda-1652-4787-a14b-8337dbb1dc92"},{"Data":{"IsExpanded":false},"Guid":"20cfb2ff-02cc-4ce2-b876-423849e6adcc"},{"Data":{"IsExpanded":false},"Guid":"8f89e02a-2e2b-4cba-9bcb-6423141c8dac"},{"Data":{"IsExpanded":false},"Guid":"0ccd72f8-7334-4129-854a-e75a2287dedb"},{"Data":{"IsExpanded":false},"Guid":"f56c338a-12aa-4324-be35-271970ecf474"},{"Data":{"IsExpanded":false},"Guid":"5262ad00-f3cc-4585-ba26-d4c1e2aacea0"},{"Data":{"IsExpanded":false},"Guid":"fc444d2b-7374-4628-ba67-26277a6bcbb0"},{"Data":{"IsExpanded":false},"Guid":"f531be65-3ed4-4dfb-9b06-279c3e73c99a"},{"Data":{"IsExpanded":false},"Guid":"72e86d79-9b21-4dc8-ba33-3ed12e6865b5"}]}

@@ -1,0 +1,3 @@
+PublishingSettings Tuto file Version 1
+
+{"CourseAbbreviation":"UXR","DescriptionPS":"","Keywords":"usability, юзабилити, пользователи, инженерная психология, пользовательский опыт, проектирование интерфейсов, персоны, сценарии, юзабилити-тестирование","LatexCompiledSlidesSubdirectory":"LatexCompiledSlides","LatexSourceSubdirectory":"Latex","ThumbnailImagePath":null,"TopicLevels":[{"Caption":"Лекция","Digits":1}],"UlearnCourseDirectory":""}
